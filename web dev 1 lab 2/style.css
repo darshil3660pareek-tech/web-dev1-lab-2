@@ -1,0 +1,46 @@
+*{text-align: center;}
+
+header{background-color: blue;
+color:antiquewhite;
+word-spacing: 5px;
+position: fixed;
+padding: ;
+width: 100%;
+top: 0;
+border: 2px solid blue;
+}
+#am{padding-top: 115px;}
+
+h1{font-size: 50px;}
+
+img{border-radius: 50%;
+height: 500px;
+width: 500px;}
+
+table{margin: auto;
+border: 2px solid blue;
+width: 500px;
+}
+.cl{ background-color: blue;
+color: black;}
+th,td{padding:10px;}
+
+.do{border: 1px solid black ;
+width: 500px;
+height: 150px;
+margin: auto;
+background-color: antiquewhite;
+padding-top: 50px;
+background-image: url(youuuu.jpg);
+color: grey;
+}
+button{background-color: blue;
+color: white;  }
+a{color: white;
+word-spacing: 50px;}
+
+#jo{position: relative;
+left: 500px;
+}
+#hu{background-image: url(☄️\ _3.jpeg);
+    color:black;}
